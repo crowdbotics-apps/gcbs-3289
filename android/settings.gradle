@@ -1,0 +1,3 @@
+rootProject.name = 'gcbs_3289'
+
+include ':app'
